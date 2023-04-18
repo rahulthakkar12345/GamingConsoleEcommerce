@@ -1,3 +1,3 @@
-https://rahulthakkar12345.github.io/
+https://rahulthakkar12345.github.io/GamingConsoleEcommerce/
 
 GamingConsoleEcommerce
