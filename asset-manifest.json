@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GamingConsoleEcommerce/static/css/main.f0cff825.css",
+    "main.js": "/GamingConsoleEcommerce/static/js/main.93407d39.js",
+    "static/js/787.be927ff5.chunk.js": "/GamingConsoleEcommerce/static/js/787.be927ff5.chunk.js",
+    "static/media/6.jpeg": "/GamingConsoleEcommerce/static/media/6.365ef6aae45328b5654a.jpeg",
+    "static/media/5.jpg": "/GamingConsoleEcommerce/static/media/5.797366bf5f86b7e52b22.jpg",
+    "static/media/3.jpg": "/GamingConsoleEcommerce/static/media/3.5cc5269db4f34418771f.jpg",
+    "static/media/4.jpg": "/GamingConsoleEcommerce/static/media/4.2907648b87117e929ef8.jpg",
+    "index.html": "/GamingConsoleEcommerce/index.html",
+    "main.f0cff825.css.map": "/GamingConsoleEcommerce/static/css/main.f0cff825.css.map",
+    "main.93407d39.js.map": "/GamingConsoleEcommerce/static/js/main.93407d39.js.map",
+    "787.be927ff5.chunk.js.map": "/GamingConsoleEcommerce/static/js/787.be927ff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0cff825.css",
+    "static/js/main.93407d39.js"
+  ]
+}
